@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMRANI ALAOUI Mohammed</h1>
-<h3 align="center">Passionate about Artificial Intelligence, Data Science, and software development, always looking for new challenges and ways to improve my skills.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amranimohammed" alt="amranimohammed" /></a> </p>
+<h3 align="center">Learn.</h3>
 
 - 🌱 I’m currently learning **Augmented reality**
 
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amranimohammed&show_icons=true&locale=en&layout=compact" alt="amranimohammed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amranimohammed&show_icons=true&locale=en" alt="amranimohammed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amranimohammed&" alt="amranimohammed" /></p>
