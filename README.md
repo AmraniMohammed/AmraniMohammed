@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMRANI ALAOUI Mohammed</h1>
 <h3 align="center">LEARN.</h3>
 
-- 🌱 I’m currently learning **Augmented reality**
+- 🌱 I’m currently learning **Extended reality**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmraniMohammed](https://github.com/AmraniMohammed)
 
