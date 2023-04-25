@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmraniMohammed](https://github.com/AmraniMohammed)
 
-- 💬 Ask me about **React, React Native, Flask, Data Science, Machine Learning, Deep Learning, Computer Vision.**
+- 💬 Ask me about **Extended reality, Data science, Web development.**
 
 - 📫 How to reach me **mrani.med98@gmail.com**
 
