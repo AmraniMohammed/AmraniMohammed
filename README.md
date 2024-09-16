@@ -9,7 +9,7 @@
 
 🌌 **Welcome to my corner of the universe!**  
 
-🚀 **XR Software Engineer | Full-Stack Developer | Problem Solver**  
+🚀 **XR Software Engineer | Problem Solver**  
 💡 **Passionate about Extended Reality, Data Science, and Web Development**
 
 I’m a passionate **XR Software Engineer** with a deep dive into the fascinating realms of **Virtual Reality (VR)**, **Augmented Reality (AR)**, and **Mixed Reality (MR)**. My journey is all about creating immersive experiences that bridge the gap between the digital and physical worlds. From crafting realistic simulations to solving complex technical challenges, I thrive on bringing futuristic ideas to life.
